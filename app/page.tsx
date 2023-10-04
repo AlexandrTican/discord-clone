@@ -1,6 +1,6 @@
-import Image from 'next/image'
 import { Button } from '../components/ui/button'
-import { Ghost } from 'lucide-react'
+import {cn } from '@/lib/utils'
+
 
 export default function Home() {
   return (
